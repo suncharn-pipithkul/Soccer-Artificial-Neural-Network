@@ -1,4 +1,6 @@
 # Soccer-Artificial-Neural-Network
+An artificial neural network models trained to predict a soccer match score/income from a match/alcohol consume after the match.
+This is part of UMB CS470/670 assignment.
 ## Table of contents
 * [Demo](#demo)
 * [Technologies](#Technologies)
