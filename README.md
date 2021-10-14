@@ -5,7 +5,7 @@ This is part of UMB CS470/670 assignment.
 * [Demo](#demo)
 * [Technologies](#Technologies)
 ## Demo
--- incoming --
+-- upcoming --
 ## Technologies
 Project is created with:
 * Python version 3.8.0
